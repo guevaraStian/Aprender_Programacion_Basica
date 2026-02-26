@@ -11,3 +11,7 @@ git clone https://github.com/guevaraStian/Clases_Programacion_Basica.git
 Cd Clases_Programacion_Basica
 git push origin main
 ```
+Se recomienda abrirlos en el orden que tiene los nombres de los pdf, en ese orden es mas facil aprender el tema.
+
+
+
