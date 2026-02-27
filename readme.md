@@ -12,6 +12,7 @@ Cd Clases_Programacion_Basica
 git push origin main
 ```
 Se recomienda abrirlos en el orden que tiene los nombres de los pdf, en ese orden es mas facil aprender el tema.
+Se recomienda la clase 01 de instalacion de lenguajes de programacion antes de hacer cualquier ejercicio.
 
 
 
