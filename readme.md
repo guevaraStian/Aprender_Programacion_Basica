@@ -2,6 +2,26 @@
 
 En este repositorio de github se encuentran clases de programacion desde cero, pasando por diferentes temas como variables, vectores, biografias, condicionales, ciclos, objetos, software web, metodologia de desarrollo, framework, html, bases de datos y estilos css. Hay archivos pdf para lectura y un power point para ver el resumen. Aprendiendo programacion facil desde cero. Enseñar enseñando programacion basica. con diferentes sentencias sql y colecciones NoSQL que sirven en los proyectos software. En este repositorio hay varios textos en pdf y 1 powerpoint donde esta la presentacion de las clases. Clases gratis de programacion
 
+
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
+
+
 Se puede descargar dando click en el boton verde de la pagina o tambien instalando git y descargandolo con comandos.
 Los pasos para descargarlo por comandos de terminal son los siguientes: 
 
