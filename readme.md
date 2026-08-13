@@ -1,7 +1,7 @@
 <h1 align="center"> APRENDE DE PROGRAMACION DESDE CERO, CLASES DE PROGRAMACION DESDE CERO </h1>
 
-En este repositorio de github se encuentran clases de programacion desde cero, pasando por diferentes temas como variables, vectores, biografias, condicionales, ciclos, objetos, software web, metodologia de desarrollo, framework, html, bases de datos y estilos css. Hay archivos pdf para lectura y un power point para ver el resumen. Aprendiendo programacion facil desde cero. Enseñar enseñando programacion basica. con diferentes sentencias sql y colecciones NoSQL que sirven en los proyectos software. En este repositorio hay varios textos en pdf y 1 powerpoint donde esta la presentacion de las clases. Clases gratis de programacion
-Aprende rapido.
+En este repositorio de github se encuentran clases de programacion desde cero, pasando por diferentes temas como variables, vectores, biografias, condicionales, ciclos, objetos, software web, metodologia de desarrollo, framework, html, bases de datos y estilos css. Hay archivos pdf para lectura y un power point para ver el resumen. Aprendiendo programacion facil desde cero. Enseñar enseñando programacion basica. con diferentes sentencias sql y colecciones NoSQL que sirven en los proyectos software. En este repositorio hay varios textos en pdf y 1 powerpoint donde esta la presentacion de las clases. Clases gratis de programacion desde cero hasta experto.
+
 
 El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
 
